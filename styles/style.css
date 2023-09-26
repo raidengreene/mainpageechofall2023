@@ -1,0 +1,33 @@
+header{
+    position: fixed;
+    z-index: 10;
+    background-color: aquamarine;
+    width: 100%;
+    border-bottom: 3px solid #466995;
+}
+
+#welcome{
+    background-color: #5ad3ff;
+    box-sizing: border-box;
+    padding: 30px;
+    text-align: center;
+    width: auto;
+    position: relative;
+    top: 25px;
+}
+
+.row{
+    padding: 40px;
+    box-sizing: border-box;
+    position: relative;
+    top: 50px;
+}
+
+#header-row {
+    top: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #ddecff;
+}
